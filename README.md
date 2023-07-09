@@ -1,5 +1,5 @@
 ## Olá, eu sou a Flávia! 🙋🏼‍♀️
-- Discente graduando em sistemas de informação (3º semestre)
+- Discente em sistemas de informação (3º semestre)
 - Estudando front-end
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1253156421759811366)
