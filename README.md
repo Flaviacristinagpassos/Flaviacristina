@@ -1,4 +1,4 @@
-## Olá eu sou a Flávia! 🙋🏼‍♀️
+## Olá, eu sou a Flávia! 🙋🏼‍♀️
 - Discente graduando em sistemas de informação (3º semestre)
 - Estudando front-end
 
