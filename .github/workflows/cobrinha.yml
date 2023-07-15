@@ -1,7 +1,4 @@
 name: Generate Datas
-
-  using: 'node16'
-  main: 'main.js'
 runs:
   using: 'node16'
   pre: 'setup.js'
