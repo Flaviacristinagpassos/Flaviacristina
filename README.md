@@ -35,7 +35,3 @@
     <a href="https://discord.gg/_tinoca#6993" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-
-(ainda terminando de personalizar meu read.me)
-
-(![Snake] (https://github.com/Flaviacristinagpassos/Flaviacristinagpassos/blob/main/.github/workflows/cobrinha.yml))
