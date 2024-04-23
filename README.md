@@ -1,5 +1,6 @@
 ## Olá, eu sou a Flávia! 🙋🏼‍♀️
 - Discente em sistemas de informação (5º semestre)
+- Front-end, começando a me aprofundar em back-end com Postgresql, MyQSL e Mongodb afim de seguir na área de fullstack, e futuramente agregar a minha formação academica uma pós em gestão de projetos
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1253156421759811366)
 
