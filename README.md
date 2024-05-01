@@ -4,8 +4,6 @@
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1253156421759811366)
 
-
-![Flávia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavia&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviacristina&layout=compact&theme=tokyonight)
 
 
