@@ -9,7 +9,6 @@
 
 </div>
 
-# Skills
 ## Languages
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
 <img align="center" width=20 height=30 alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
