@@ -83,7 +83,7 @@ Unfiedmodelinglenguage |
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Snake animation](https://github.com/Flaviacristinagpassos/Flaviacristinagpassos/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/Flaviacristinagpassos/Flaviacristinagpassos/blob/output/github-contribution-grid-snake.svg)]
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Flaviacristinagpassos&repo=Flaviacristinagpassos&theme=react)](https://github.com/Flaviacristinagpassos/Flaviacristinagpassos)
 
