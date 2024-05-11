@@ -1,4 +1,7 @@
-## Hi, I'm Flávia! 🙋🏼‍♀️
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Jersey25Charted&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!;+I'm+Flávia!+🙋🏼‍♀️;" />
+</h1>
+
 - My main focus is a front-end developer, with knowledge in the area of UI/UX designer, interested in migrating to fullstack. I graduated in administration and my main area of interest is in project management.
 
 <div style="display: inline_block">   
@@ -82,8 +85,6 @@ Unfiedmodelinglenguage |
 ## OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-![Snake animation](https://github.com/Flaviacristinagpassos)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Flaviacristinagpassos&repo=Flaviacristinagpassos&theme=react)](https://github.com/Flaviacristinagpassos/Flaviacristinagpassos)
 
