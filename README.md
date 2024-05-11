@@ -1,17 +1,13 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Jersey25Charted&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!;+I'm+Flávia!+🙋🏼‍♀️;" />
-</h1>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=SedanSC&weight=500&size=35&duration=4000&pause=1000&color=0FB6E6&background=0C155F00&multiline=true&random=false&width=435&lines=Hello!+I'm+Fl%C3%A1via!+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a>
 
-- My main focus is a front-end developer, with knowledge in the area of UI/UX designer, interested in migrating to fullstack. I graduated in administration and my main area of interest is in project management.
+My main focus is a front-end developer, with knowledge in the area of UI/UX designer, interested in migrating to fullstack. I graduated in administration and my main area of interest is in project management.
 
 <div style="display: inline_block">   
     <a href="https://github.com/Flaviacristinagpassos" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href = "mailto:flavia.cristinagpassos@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/fl%C3%A1via-cristina/s" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://trello.com/u/flaviacristinagpassos/activity" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
-
 </div>
-<br>
 
 # Skills
 
@@ -70,7 +66,6 @@ Unfiedmodelinglenguage |
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
 </div><br>
 
-
 # IDE's
 
 <div>   
@@ -85,6 +80,3 @@ Unfiedmodelinglenguage |
 ## OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Flaviacristinagpassos&repo=Flaviacristinagpassos&theme=react)](https://github.com/Flaviacristinagpassos/Flaviacristinagpassos)
-
