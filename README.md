@@ -1,5 +1,5 @@
 ## Hi, I'm Flávia! 🙋🏼‍♀️
-- I am an information systems student at the Federal University of Rio Grande (FURG), currently studying the 5th semester. My main focus is a front-end developer, with knowledge in the area of UI/UX designer, interested in migrating to fullstack. I graduated in administration and my main area of interest is in project management.
+- My main focus is a front-end developer, with knowledge in the area of UI/UX designer, interested in migrating to fullstack. I graduated in administration and my main area of interest is in project management.
 
 <div style="display: inline_block">   
     <a href="https://github.com/Flaviacristinagpassos" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
