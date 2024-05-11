@@ -64,7 +64,7 @@ Unfiedmodelinglenguage |
 </div><br>
 
 
-# Most used IDE's
+# IDE's
 
 <div>   
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
