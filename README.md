@@ -22,12 +22,11 @@ TailwindCSS |
 <img align="center" width=20 height=40 alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 React |
 <img align="center" width=20 height=40 alt="JQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-JQuery |    
-<img align="center" width=20 height=40 alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+JQuery | <img align="center" width=20 height=40 alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
 Bootstrap |
-<img align="center" width=20 height=40 alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="center" width=20 height=40 alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> 
 Node.js | 
-<img align="center" width=20 height=40 alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+<img align="center" width=20 height=40 alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" /> 
 Three.js | 
 
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
