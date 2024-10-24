@@ -70,12 +70,6 @@ Flutter |
     <a href="https://br.fiverr.com/flavia_cristina?up_rollout=true" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a>
 </div>
 
-## Cloud <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-<div style="display: inline_block"> 
-    <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
-    <a href="https://cloud.google.com/?hl=pt-BR" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
-</div>
-
 ## Database
 <div style="display: inline_block">   
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
@@ -84,8 +78,13 @@ Flutter |
     <a href="https://mariadb.org/" target="_blank"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a>
     <a href="https://aws.amazon.com/pt/dynamodb/" target="_blank"> <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" target="_blank"></a>
     <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" target="_blank"></a>
+</div>
 
-</div><br>
+## Cloud <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<div style="display: inline_block"> 
+    <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
+    <a href="https://cloud.google.com/?hl=pt-BR" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
+</div>
 
 ## IDE's
 
