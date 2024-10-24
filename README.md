@@ -19,12 +19,16 @@ My main focus is front-end developer, with knowledge in the area of UI/UX design
 
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
 /> |
+<img align="center" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
+PyQt  |
 <img align="center" width=30 height=30 src="https://github.com/user-attachments/assets/cf091376-0ab9-4c4b-9fc1-d20c64531c2d" />
 Boto3  | 
 <img  align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 Matplotlib  |
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 NumPy  | 
+<img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+Jupyter  |
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 Pandas |
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
@@ -37,7 +41,6 @@ ApacheSpark |
 AWS |
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 Google Clouds |
-
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" /> Unfiedmodelinglenguage |
 <img align="center" width=90 height=30 alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> |
 
@@ -61,8 +64,8 @@ TailwindCSS |
 Flutter | 
 <br>  <br>        
 
-## Design
-<div>
+## Design <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<div>   
     <a href="https://www.behance.net/flaviacristina2" target="_blank"><img alt="behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" target="_blank"><img alt="prezi" src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" target="_blank"></a>
     <a href="hhttps://www.adobe.com/br/products/photoshop.html" target="_blank"><img alt="AdobePhotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
@@ -74,7 +77,7 @@ Flutter |
 ## Cloud
 <div style="display: inline_block"> 
     <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
-     <a href="https://cloud.google.com/?hl=pt-BR" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
+    <a href="https://cloud.google.com/?hl=pt-BR" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 </div>
 
 ## Database
@@ -89,17 +92,31 @@ Flutter |
 
 </div><br>
 
-# IDE's
+## IDE's
 
 <div>   
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
-    <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a>
-    <a href="https://replit.com/@Flaviacristinag?path=folder%2FUnnamed" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-    <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank"></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" target="_blank"></a> 
+    <a href="https://www.jetbrains.com/pt-br/datagrip/" target="_blank"><img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" /> 
+    <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />      
+    <a href="https://dbeaver.io/download/" target="_blank"><img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />     
+    <a href="https://replit.com/@Flaviacristinag?path=folder%2FUnnamed" target="_blank"><img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />       
+    <a href="https://code.visualstudio.com/" target="_blank"><img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" target="_blank"></a>                
+    <a href="https://www.arduino.cc/en/software" target="_blank"><img align="center" width=50 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" target="_blank"></a>
+    
 </div>
 
-## OS
+## DevOps
+
+<div>
+    <img align="center" width=60 height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+    <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+    <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+    <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />                        
+</div>
+
+## OS <img align="center" width=40 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />         
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
