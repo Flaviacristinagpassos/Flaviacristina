@@ -43,9 +43,7 @@ React |
 JQuery |    <img align="center" width=20 height=40 alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 Bootstrap |
 <img align="center" width=20 height=40 alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-Node.js | 
-<img align="center" width=20 height=40 alt="Three.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
-Three.js | 
+Node.js |  
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> |
 <img align="center" width=20 height=30 alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -56,9 +54,7 @@ TailwindCSS |
 <img align="center" alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> | 
 <img align="center" width=20 height=40 alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 Flutter | 
-          
-
-
+<br>  <br>        
 
 ## Design
 <div>
@@ -71,11 +67,22 @@ Flutter |
     <a href="https://br.fiverr.com/flavia_cristina?up_rollout=true" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a>
 </div>
 
+## Cloud
+<div style="display: inline_block"> 
+    <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" target="_blank"></a>
+     <a href="https://cloud.google.com/?hl=pt-BR" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
+</div>
+
 ## Database
 
 <div style="display: inline_block">   
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
+    <a href="https://mariadb.org/" target="_blank"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a>
+    <a href="https://aws.amazon.com/pt/dynamodb/" target="_blank"> <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" target="_blank"></a>
+    <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" target="_blank"></a>
+
 </div><br>
 
 # IDE's
@@ -84,7 +91,6 @@ Flutter |
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
     <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank"></a>
     <a href="https://replit.com/@Flaviacristinag?path=folder%2FUnnamed" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>
-    <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank"></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
     <a href="https://www.arduino.cc/en/software" target="_blank"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank"></a>
 </div>
