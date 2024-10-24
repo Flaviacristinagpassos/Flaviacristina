@@ -15,6 +15,8 @@ My main focus is front-end developer, with knowledge in the area of UI/UX design
 
 ## Languages
 
+
+
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
 /> |
 <img align="center" width=30 height=30 src="https://github.com/user-attachments/assets/cf091376-0ab9-4c4b-9fc1-d20c64531c2d" />
@@ -25,6 +27,8 @@ Matplotlib  |
 NumPy  | 
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 Pandas |
+<img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+Flask |
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 Json | 
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
@@ -35,6 +39,7 @@ AWS |
 Google Clouds |
 
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" /> Unfiedmodelinglenguage |
+<img align="center" width=90 height=30 alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> |
 
 <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>   |
 <img align="center" width=20 height=40 alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -62,8 +67,7 @@ Flutter |
     <a href="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" target="_blank"><img alt="prezi" src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" target="_blank"></a>
     <a href="hhttps://www.adobe.com/br/products/photoshop.html" target="_blank"><img alt="AdobePhotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
     <a href="https://www.adobe.com/br/products/illustrator.html" target="_blank"><img alt="AdobeIllustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-    <a href="https://www.figma.comfilesuser1253156416401913039fuid=1253156416401913039" 
-    target="_blank"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+    <a href="https://www.figma.comfilesuser1253156416401913039fuid=1253156416401913039" target="_blank"><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
     <a href="https://br.fiverr.com/flavia_cristina?up_rollout=true" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a>
 </div>
 
